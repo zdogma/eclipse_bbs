@@ -2,7 +2,9 @@ sakurafull_bbs
 ===
 
 ![](http://bright-magazine.com/wp-content/uploads/2015/03/20150307_1.png)
+
 出典元: http://sakuranoa.me/
+
 ## Description
 spring framework を用いて作成した掲示板。
 
